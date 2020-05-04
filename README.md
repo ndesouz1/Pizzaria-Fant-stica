@@ -1,6 +1,6 @@
-# PizzariaFantastica-DH
+# Pizzaria Fantastica
 
-## Projeto feito como prática de aula do curso de Desenvolvimento Web Full Stack da Digital-House
+## Prática de aula do curso de Desenvolvimento Web Full Stack da Digital-House
 
 * EJS
 * Express
